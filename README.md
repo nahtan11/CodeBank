@@ -1,2 +1,2 @@
 # CodeBank
-Repository of coding and programming materials
+A repository of coding and programming materials
